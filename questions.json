@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "class": "11",
+    "subject": "Math",
+    "topic": "Set",
+    "difficulty": "medium",
+    "type": "long",
+    "content": "Evaluate:  \\( \\int x^{2} \\, dx \\)",
+    "solution": "The integral is \\( \\frac{x^3}{3} + C \\)."
+  },
+  {
+    "id": 2,
+    "class": "11",
+    "subject": "Physics",
+    "topic": "Mechanics",
+    "difficulty": "easy",
+    "type": "short",
+    "content": "State Newton's Second Law.",
+    "solution": "Force equals mass times acceleration: \\( F = ma \\)."
+  }
+  // Add more questions as needed...
+]
